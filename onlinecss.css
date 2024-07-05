@@ -136,12 +136,11 @@
 		        user-select: none;
 		background-image: none;
 		background-color: #e0a20f;
-		color : ##fff;
 		border: 1px solid transparent;
 		border-radius: 4px;
 	}
 	.hppform_field_button, .hppform_field_button:hover, .hppform_field_button:active, .hppform_field_button:focus {
-		color: #000000;
+		color: #fff;
 	}
   .hppform_field_select_ul {
     list-style: none;
