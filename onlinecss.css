@@ -46,10 +46,13 @@
 	}
 
 	/* form classes */
-	#hppform_container {
-		font-size: 0.8em;
-	}
-
+#hppform_container {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 15px;
+    width: 300px;
+    margin: 0 auto;
+}
 	/* label classes */
 	.hppform_field_heading {
 		margin: 0px;
