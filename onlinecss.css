@@ -47,11 +47,11 @@
 
 	/* form classes */
 #hppform_container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 15px;
     border: 1px solid #ccc;
     border-radius: 2px;
-    padding: 15px;
-    width: 300px;
-    margin: 0 auto;
 }
 	/* label classes */
 	.hppform_field_heading {
